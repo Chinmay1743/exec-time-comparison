@@ -13,7 +13,7 @@ Primary purpose for such a simple code is to see how much time will it take for 
 
 |Hardware       (OS: Windows)                |Limit value|Cores|Time Taken|
 |:------------------------------------------:|:-------------------------------:|:---:|:---------:|
-|CPU: Ryzen 5 5500U, RAM: 16x2GB 3200MHz DDR4|1,000,000,000,000 or 1000 billion|12   |172 seconds|
+|CPU: Ryzen 5 5500U, <br> RAM: 16x2GB 3200MHz DDR4|1,000,000,000,000 or 1000 billion|12   |172 seconds|
 |                                            |10,000,000,000 or 10 billion     |12   |~15 seconds|
 |                                            |1,000,000,000 or 1 billion       |12   | ~<1 Second|
 
