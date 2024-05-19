@@ -44,7 +44,7 @@ fn main() {
 
 
 
-// Below program works well but is single-threaded. Above is modified version of below
+// Below program works well but is single-threaded. Above is modified version of below code
 /* 
 use std::time::Instant;
 
