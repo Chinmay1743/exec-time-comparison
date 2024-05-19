@@ -18,7 +18,7 @@ Primary purpose for such a simple code is to see how much time will it take for 
 |                                            |1,000,000,000 or 1 billion       |12   | ~<1 Second|
 
 <br>
-For faster results, please run build and run your program in ```--release``` mode. If you compile and run in ```--debug```, the time taken will be way too long.
+For faster results, please run build and run your program in "--release" mode. If you compile and run in "--debug", the time taken will be way too long.
 <br>
 
 ### Sample Output (for the value: 10,000,000,000):
